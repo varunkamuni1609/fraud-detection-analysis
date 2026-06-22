@@ -58,7 +58,7 @@ Tuned hyperparameters via **k-fold cross-validation** to prevent overfitting and
 | Accuracy | 76% | **88%** |
 | False Positive Rate | Baseline | **~18% reduction** |
 | ROC-AUC | — | [ 0.708381  ] |
-| F1-Score (Fraud class) | — | [ 0.208381  ] |
+| F1-Score (Fraud class) | — | [ 0.204225     ] |
 
 **Key outcome:** 18% reduction in false positives — meaning fewer legitimate customers get incorrectly flagged, reducing friction without compromising fraud detection.
 
