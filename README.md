@@ -168,4 +168,3 @@ jupyter
 
 ---
 
-*Built as part of a portfolio of end-to-end analytics projects. Open to Data Analyst and Business Analyst roles in Hyderabad and Bangalore.*
